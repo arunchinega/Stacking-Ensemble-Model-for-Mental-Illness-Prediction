@@ -4,4 +4,6 @@ pandas
 scikit-learn
 numpy
 matplotlib
-
+seaborn
+scipy
+xgboost
